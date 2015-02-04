@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+
+body{ font-family: arial; background-color: #eee; margin: auto; }
+
+header{ width: 100%; background: #aaa; color: #fff; }
