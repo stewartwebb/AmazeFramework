@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Wightbread - <?php echo $title; ?></title>
+	<title> - <?php echo $title; ?></title>
 	<link href="<?php echo BASE_URL; ?>css/grid.css" type="text/css" rel="stylesheet" />
 	<link href="<?php echo BASE_URL; ?>css/base.css" type="text/css" rel="stylesheet" />
 </head>
@@ -10,7 +10,7 @@
 	<div class="grid grid-pad">
 		<div class="col-3-12">
 			<div class="content">
-				<h1>Wightbread</h1>
+				<h1></h1>
 			</div>
 		</div>
 		<div class="col-9-12">
