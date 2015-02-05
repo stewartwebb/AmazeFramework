@@ -1,1 +1,1 @@
-<h4>End of Wightbread</h4>
+<h4>End</h4>
